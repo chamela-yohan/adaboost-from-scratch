@@ -45,7 +45,7 @@ AdaBoost (Adaptive Boosting) is an ensemble machine learning algorithm that:
 ```
 adaboost-from-scratch/
 │
-├── adaboost_tutorial.ipynb    # Main Jupyter notebook with implementation
+├── adaboost.ipynb    # Main Jupyter notebook with implementation
 ├── README.md                   # This file
 ```
 
@@ -64,7 +64,7 @@ pip install numpy pandas matplotlib jupyter
 ### Clone and Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/adaboost-from-scratch.git
+git clone https://github.com/chamela-yohan/adaboost-from-scratch.git
 
 # Navigate to the directory
 cd adaboost-from-scratch
@@ -307,7 +307,7 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 Chamela Yohan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -330,10 +330,10 @@ SOFTWARE.
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Chamela Yohan**
+- GitHub: [@chamela-yohan](https://github.com/chamela-yohan)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/chamela-aththanayaka-a28865228/)
+- Email: chamelayohan@gmail.com
 
 ## 🙏 Acknowledgments
 
